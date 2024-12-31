@@ -1,4 +1,4 @@
-# Fullstack Task Manager (MERN)
+# Fullstack Task Management (MERN)
 
 ![Preview](task1.png)
 ![Preview](task2.png)
